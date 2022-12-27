@@ -19,7 +19,7 @@ const arrPersons = [
         features: ['имеет черные волосы', 'имеет лассо', 'имеет суперсилу', 'амазонка', 'имеет щит'],
         name: 'Чудо-женщина',
         coincidenceFeature: 0,
-        image: 'https://i.rutab.net/upload/2022/userfiles/main_2x167049578876427.jpg'
+        image: 'https://i.ibb.co/0hQ9CT4/pj-Rg-Nj-Pxqc-T48-ow-Zb-SIa69m-N5z-G7-s-Lt94w-S0-HNq-Rpaw-AAv-D6g-QDM2-EGk-Qilb-J9o-MAf9-On-Yv-ACDxo.jpg'
     },
     {
         sex: 'male',
